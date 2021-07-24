@@ -1,0 +1,19 @@
+{
+    "name": "obaid/contact",
+    "description": "This will send email to admin and save contact in database.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Obaid",
+            "email": "moq@mail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Obaid\\Contact\\": "src/"
+        }
+    },
+}
